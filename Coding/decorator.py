@@ -32,5 +32,4 @@ def add(a, b):
     return a + b
 
 
-# here add function is passed as parameter to fun
 add(5, 2)
